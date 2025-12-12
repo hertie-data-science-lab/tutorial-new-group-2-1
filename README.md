@@ -26,4 +26,7 @@ Aditi Joshi
 Elena Murray  
 Leticia Figueiredo Collado  
 Sattiki Ganguly  
-Xiaohan Wu  
+Xiaohan Wu
+<br><br>
+**Collaboration statement:**  
+All students actively collaborated to ensure the successful making of this tutorial.
