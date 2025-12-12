@@ -6,6 +6,7 @@
     src="https://github.com/user-attachments/assets/14c8187c-a36f-43f3-a1ab-4cbfe56324c4"
   />
 </p>
+<br><br>
 
 ## Tutorial for Sentinel-1 Flood Analysis: Transfer Learning and Embedding Applications  
 **GRAD-E1394 Deep Learning – Assignment 3**
@@ -18,7 +19,7 @@ In addition to the tutorial notebook, we also provide a [slide presentation](htt
 
 This video guide walks through the tutorial and its components to assist with the overall understanding of how to run the notebook.
 
-
+<br><br>
 ### Authors
 Aditi Joshi  
 Elena Murray  
