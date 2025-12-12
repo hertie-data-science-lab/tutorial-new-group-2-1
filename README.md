@@ -1,4 +1,11 @@
-<img width="1200" height="162" alt="image" src="https://github.com/user-attachments/assets/14c8187c-a36f-43f3-a1ab-4cbfe56324c4" />
+<p align="center">
+  <img
+    width="400"
+    height="54"
+    alt="image"
+    src="https://github.com/user-attachments/assets/14c8187c-a36f-43f3-a1ab-4cbfe56324c4"
+  />
+</p>
 
 ## Tutorial for Sentinel-1 Flood Analysis: Transfer Learning and Embedding Applications  
 **GRAD-E1394 Deep Learning – Assignment 3**
