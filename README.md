@@ -17,7 +17,7 @@ The notebook combines conceptual explanations with practical implementation, inc
 
 In addition to the tutorial notebook, we also provide a [slide presentation](https://github.com/hertie-data-science-lab/tutorial-new-group-2-1/blob/main/DL%20Presentation%202025%20-%20Group%202%20(final).pdf) that covers the relevance of the topic for public policy and government, as well as a quick background and overview of what is covered in the tutorial.
 
-This video guide walks through the tutorial and its components to assist with the overall understanding of how to run the notebook.
+This [video guide](https://youtu.be/adiGGknwwvE) can be accessed on YouTube and walks through the tutorial and its components to assist with the overall understanding of how to run the notebook.
 
 <br>
 
