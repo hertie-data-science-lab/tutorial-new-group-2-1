@@ -19,7 +19,7 @@ In addition to the tutorial notebook, we also provide a [slide presentation](htt
 
 This video guide walks through the tutorial and its components to assist with the overall understanding of how to run the notebook.
 
-<br><br>
+<br>
 ### Authors
 Aditi Joshi  
 Elena Murray  
