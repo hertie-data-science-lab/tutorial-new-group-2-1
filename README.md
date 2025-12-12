@@ -1,4 +1,6 @@
-# Tutorial for Sentinel-1 Flood Analysis: Transfer Learning and Embedding Applications  
+<img width="1200" height="162" alt="image" src="https://github.com/user-attachments/assets/14c8187c-a36f-43f3-a1ab-4cbfe56324c4" />
+
+## Tutorial for Sentinel-1 Flood Analysis: Transfer Learning and Embedding Applications  
 **GRAD-E1394 Deep Learning – Assignment 3**
 
 This tutorial introduces a practical workflow for **flood detection using Sentinel-1 satellite imagery**. It focuses on applying **transfer learning with pretrained convolutional neural networks (CNNs)** to radar data in order to generate flood maps. The notebook combines conceptual explanations with practical implementation, highlighting how how transfer learning and embedding applications can support rapid flood monitoring and climate-related decision-making.
