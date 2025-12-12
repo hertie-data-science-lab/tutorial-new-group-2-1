@@ -11,9 +11,9 @@
 ## Tutorial for Sentinel-1 Flood Analysis: Transfer Learning and Embedding Applications  
 **GRAD-E1394 Deep Learning – Assignment 3**
 
-This tutorial introduces a practical workflow for **flood detection using Sentinel-1 satellite imagery**. It focuses on applying **transfer learning with pretrained convolutional neural networks (CNNs)** to radar data in order to generate flood maps. The notebook combines conceptual explanations with practical implementation, highlighting how how transfer learning and embedding applications can support rapid flood monitoring and climate-related decision-making.
+This tutorial is submitted as an assignment for the course GRAD-E1394 Deep Learning, which integrates the Data Science for Public Policy Master program at the Hertie School of Governance in Berlin. It presents a practical workflow for **flood detection using Sentinel-1 SAR satellite imagery**, demonstrating how **transfer learning with pretrained convolutional neural networks (CNNs)** can be applied to radar data to generate flood maps and reusable feature representations.
 
-The tutorial demonstrates how Sentinel-1 radar data (VV and VH polarizations) can be applied to detect open-water flooding and flooded vegetation, and shows how learned embeddings can be used for downstream tasks such as classification, similarity search and clustering.
+The notebook combines conceptual explanations with practical implementation, including a U-Net segmentation model with a ResNet-34 encoder. The model is trained using a two-stage transfer learning strategy, adapting ImageNet-pretrained features to Sentinel-1 VV and VH polarizations. The trained encoder is then used to extract 512-dimensional embeddings for downstream tasks including flood classification, image similarity search, and unsupervised clustering, illustrating how learned representations capture meaningful, region-agnostic flood patterns that can support rapid flood monitoring and climate-related decision-making.
 
 In addition to the tutorial notebook, we also provide a [slide presentation](https://github.com/hertie-data-science-lab/tutorial-new-group-2-1/blob/main/DL%20Presentation%202025%20-%20Group%202%20(final).pdf) that covers the relevance of the topic for public policy and government, as well as a quick background and overview of what is covered in the tutorial.
 
